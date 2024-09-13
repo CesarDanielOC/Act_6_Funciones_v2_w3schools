@@ -10,7 +10,8 @@ def verlista(telefonos):
 #Lista
     def verlista2(perros): 
         for nombres in perros: print (nombres)
-thisdict = {
+Eldiccionarioplusmasproperroperrin = {
+ = {
   "Marca": "McLaren",
   "Modelo": "Senna",
   "Año de creación": 2019,
@@ -28,6 +29,7 @@ verlista(set1)
 
 print("Imprime un diccionario")
 
-print(thisdict)
+print(Eldiccionarioplusmasproperroperrin = {
+    )
 print("Celulares es de tipo",type(celulares))
 print("Arriba escribe el tipo, en este caso, tupla, de los celulares")
