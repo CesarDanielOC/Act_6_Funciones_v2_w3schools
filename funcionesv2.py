@@ -16,7 +16,7 @@ thisdict = {
   "Año de creación": 2019,
   "Presente": "Sigue a la venta"
 }
-
+#Zona de impresión
 print("Imprime celulares en forma de Tupla")
 verlista(celulares)
 
